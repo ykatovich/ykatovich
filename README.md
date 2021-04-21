@@ -3,6 +3,9 @@ And I'm a beginner developer :computer:
 
 <b> Contact Me </b>
 
+:e-mail: yuroff19@gmail.com
+:computer: [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
+
 <!--
 **ykatovich/ykatovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
