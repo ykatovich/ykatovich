@@ -1,6 +1,7 @@
 ### Hi ! I am Yuri 👋
 And I'm a beginner developer :computer:
 
+<b> Contact Me </b>
 
 <!--
 **ykatovich/ykatovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
