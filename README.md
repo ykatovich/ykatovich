@@ -1,7 +1,7 @@
-### Hi ! I am Yuri 👋
-And I'm a beginner developer :computer:
+# Hi ! I am Yuri 👋
+### And I'm a beginner developer :computer:
 
-<b> Contact Me </b>
+## <b> Contact Me </b>
 
 :e-mail: yuroff19@gmail.com
 :computer: [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
