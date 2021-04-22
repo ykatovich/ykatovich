@@ -1,7 +1,7 @@
 # Hi ! I am *Yuri* 👋
 ### And I'm a beginner developer :computer:
 
-## ** Knowledge **
+## **Knowledge**
 
 * PHP
 * MySQL
@@ -12,7 +12,7 @@
 * Building REST API
 * HTML & CSS, VueJS basics
 
-## ** Contact Me **
+## **Contact Me**
 
 :e-mail: yuroff19@gmail.com
 :computer: [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
