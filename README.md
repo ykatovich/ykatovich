@@ -1,5 +1,6 @@
 # Hi ! I am *Yuri* 👋
-### And I am a software developer who enjoys exploring and taking on some exciting new challenges with my job. I am seeking to pursue an opportunity with a growing organization that will utilize and enhance my knowledge in software development, and that will provide me with essential growth opportunities :computer:
+### And I am a software developer who enjoys exploring and taking on some exciting new challenges with my job. 
+I am seeking to pursue an opportunity with a growing organization that will utilize and enhance my knowledge in software development, and that will provide me with essential growth opportunities :computer:
 
 ## **Knowledge**
 
@@ -14,7 +15,7 @@
 
 ## **Contact Me**
 
-:e-mail: yuroff19@gmail.com
+:e-mail: yuri.katovich@gmail.com
 :computer: [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
 
 <!--
