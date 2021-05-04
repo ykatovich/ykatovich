@@ -1,18 +1,17 @@
-# Hi ! I am *Yuri* 👋
-### :computer: And I am a software developer who enjoys exploring and taking on some exciting new challenges with my job. :computer:
+# Hi ! I am *Yuri* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### And I am a software developer who enjoys exploring and taking on some exciting new challenges with my job. 💻
 
-## **Knowledge**
+## **🧰 Knowledge**
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="PHP logo" width="50" height="50" />
-  Unit & Integration testing (including TDD methods)
-  MVC, SOLID & design patterns (KISS, DRY, etc.)
-  Building REST API
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="PHP logo" width="50" height="50" /><img 
+
   
 
 ## **Contact Me**
 
-:e-mail: yuri.katovich@gmail.com
-:computer: [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="PHP logo" width="20" height="20" /> yuri.katovich@gmail.com
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="PHP logo" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
 
 <!--
 **ykatovich/ykatovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
