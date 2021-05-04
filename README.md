@@ -3,7 +3,7 @@
 
 ## **Knowledge**
 
-* PHP
+* <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" height="50"
 * MySQL
 * Laravel
 * Unit & Integration testing (including TDD methods)
