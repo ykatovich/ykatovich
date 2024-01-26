@@ -1,10 +1,5 @@
 # Hi ! I am *Yuri* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Software developer who enjoys coding, exploring anda ddressing a wide range of IT challenges. Seeking to pursue an opportunity within a growing IT organization thriving to utilize and enhance my software development skills. I would
-### value a workplace that provides space for research and
-### practical application of modern technologies, appreciate
-### knowledge and importance of soft skills, resilience,
-### communications, encourage self-development and support
-### empowerment. 💻
+### Software developer who enjoys coding, exploring anda ddressing a wide range of IT challenges. Seeking to pursue an opportunity within a growing IT organization thriving to utilize and enhance my software development skills. I would  value a workplace that provides space for research and practical application of modern technologies, appreciate knowledge and importance of soft skills, resilience, communications, encourage self-development and support empowerment. 💻
 
 ## **🧰 Knowledge**
 
