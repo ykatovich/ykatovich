@@ -60,6 +60,9 @@ Software engineer focused on building reliable, production-grade backend and inf
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ykatovich&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykatovich&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://komarev.com/ghpvc/?username=ykatovich&style=flat-square&color=2496ED&label=Profile+views" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_IoT-2EA043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based_in-Latvia-FFB81C?style=flat-square" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
