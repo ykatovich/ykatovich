@@ -1,29 +1,65 @@
-# Hi ! I am *Yuri* <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Software developer who enjoys coding, exploring anda ddressing a wide range of IT challenges. Seeking to pursue an opportunity within a growing IT organization thriving to utilize and enhance my software development skills. I would  value a workplace that provides space for research and practical application of modern technologies, appreciate knowledge and importance of soft skills, resilience, communications, encourage self-development and support empowerment. 💻
+<h1 align="center">Hi, I'm Yuri 👋</h1>
 
-## **🧰 Knowledge**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+Infrastructure;IoT+%26+Industrial+Systems" />
+</p>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="PHP logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="PHP logo" width="50" height="50" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuri-katovich/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yuri.katovich@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-  
+---
 
-## **Contact Me**
+Software engineer focused on building reliable, production-grade backend and infrastructure — from **industrial IoT & SCADA telemetry** to **cloud-deployed services** and **automated platforms**. I value clean engineering, ownership, and continuous learning.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="PHP logo" width="20" height="20" /> yuri.katovich@gmail.com
+---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="PHP logo" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/yuri-katovich/)
+### 🧰 Tech Stack
 
-<!--
-**ykatovich/ykatovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & Web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=trpc&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?style=flat-square&logo=opentofu&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**IoT & Industrial**
+
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-FF6600?style=flat-square&logo=industrial&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-1B1B1B?style=flat-square&logo=node-red&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ykatovich&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykatovich&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
